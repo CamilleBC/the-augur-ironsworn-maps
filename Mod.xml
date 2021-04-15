@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<module>
+    <defName>Ironsworn - Maps</defName>
+    <name>Ironsworn - Maps</name>
+    <author>Billd &amp; Camille</author>
+    <description>Ironsworn Blank Maps and Individual Region Maps. Some scene background images too.</description>
+    <character/>
+    <weapon/>
+    <armors/>
+    <portraits/>
+    <table/>
+    <moves/>
+    <assets/>
+    <foes/>
+    <locations/>
+    <maps>
+        <Map>
+            <defName>-311633941-465352717</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Ironlands - Blank</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="World" tag="Ironlands"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Maps/Ironlands - Blank.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </Map>
+        <Map>
+            <defName>-3116339411339817042</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Deep Wilds</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Region" tag="Ironlands"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Maps/Regions/Deep Wilds.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </Map>
+        <Map>
+            <defName>-311633941121634430</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Flooded Lands</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Region" tag="Ironlands"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Maps/Regions/Flooded Lands.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </Map>
+        <Map>
+            <defName>-311633941-310063894</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Havens</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Region" tag="Ironlands"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Maps/Regions/Havens.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </Map>
+        <Map>
+            <defName>-3116339411115793005</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Hinterlands</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Region" tag="Ironlands"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Maps/Regions/Hinterlands.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </Map>
+        <Map>
+            <defName>-311633941561481153</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Rugged Coast and Barrier Islands</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Region" tag="Ironlands"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Maps/Regions/Rugged Coast and Barrier Islands.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </Map>
+        <Map>
+            <defName>-3116339411813138654</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Shattered Wastes</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Region" tag="Ironlands"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Maps/Regions/Shattered Wastes.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </Map>
+        <Map>
+            <defName>-311633941-1374995011</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Tempest Hills</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Region" tag="Ironlands"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Maps/Regions/Tempest Hills.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </Map>
+        <Map>
+            <defName>-3116339411180628596</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Veiled Mountains</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Region" tag="Ironlands"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Maps/Regions/Veiled Mountains.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </Map>
+        <Map>
+            <defName>-311633941929810992</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Ironlands - Hex Coloured</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="World" tag="Ironlands"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Maps/Ironlands - Hex Coloured.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </Map>
+        <Map>
+            <defName>-311633941-1024925781</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Ironlands - Coloured</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="World" tag="Ironlands"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Maps/Ironlands - Coloured.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </Map>
+    </maps>
+    <views>
+        <View>
+            <defName>-3116339411401140619</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Abandonned Fort</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Building" tag="Fort"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Scenes/Building/Abandoned Fort.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </View>
+        <View>
+            <defName>-311633941-828815417</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Cabin in the Woods</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Building" tag="Cabin"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Scenes/Building/Cabin in the Woods.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </View>
+        <View>
+            <defName>-3116339411457724013</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Forest Pond</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Nature" tag="Forest"/>
+                <tags category="Nature" tag="Pond"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Scenes/Nature/Forest Pond.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </View>
+        <View>
+            <defName>-311633941-446448738</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Forest</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Nature" tag="Forest"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Scenes/Nature/Forest.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </View>
+        <View>
+            <defName>-311633941-1148128516</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Lake and Mountain</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Nature" tag="Lake"/>
+                <tags category="Nature" tag="Mountain"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Scenes/Nature/Lake and Mountain.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </View>
+        <View>
+            <defName>-311633941-1132358218</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Lake and Snowy Forest</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Nature" tag="Lake"/>
+                <tags category="Nature" tag="Snow"/>
+                <tags category="Nature" tag="Forest"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Scenes/Nature/Lake and Snowy Forest.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </View>
+        <View>
+            <defName>-311633941-1475262753</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Marsh Graveyard</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Nature" tag="Marsh"/>
+                <tags category="Nature" tag="Graveyard"/>
+                <tags category="Building" tag="Graveyard"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Scenes/Nature/Marsh Graveyard.jpg</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </View>
+        <View>
+            <defName>-3116339412005312449</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>River</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Nature" tag="River"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Scenes/Nature/River.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </View>
+        <View>
+            <defName>-311633941-1025887672</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Snowy Forest</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Nature" tag="Forest"/>
+                <tags category="Nature" tag="Snow"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Scenes/Nature/Snowy Forest.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </View>
+        <View>
+            <defName>-3116339411699357484</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Water Crossing</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Nature" tag="River"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Scenes/Nature/Water Crossing.png</texPath>
+            <thingDefs/>
+            <thingIndex>0</thingIndex>
+        </View>
+    </views>
+    <icons>
+        <Prop>
+            <defName>Prop - Positions Marker - R:2887</defName>
+            <description></description>
+            <iconPath>Images/Icons/missing.png</iconPath>
+            <module>Ironsworn - Maps</module>
+            <name>Positions Marker</name>
+            <notebook>
+                <pageIndex>1</pageIndex>
+                <coverPageID>0</coverPageID>
+                <sections>
+                    <sections>
+                        <open>false</open>
+                        <name>New Section</name>
+                        <pages>
+                            <pages>
+<pageID>1</pageID>
+<title>New Page</title>
+                            </pages>
+                        </pages>
+                    </sections>
+                </sections>
+            </notebook>
+            <tagList>
+                <tags category="Icon" tag="Map"/>
+            </tagList>
+            <texPath>Mods/Ironsworn - Maps/Icons/Map - Position Marker.png</texPath>
+        </Prop>
+    </icons>
+    <avatars/>
+    <items/>
+</module>
